@@ -68,4 +68,3 @@ Thanks to [BrowserStack](https://browserstack.com/) for providing us with free c
   <img src="etc/browserstack.png">
 </a>
 
-06/16/2021
